@@ -26,7 +26,7 @@ TARGET_KERNEL_SOURCE := kernel/samsung/smdk4412
 TARGET_KERNEL_CONFIG := custom_n8000_defconfig
 
 # assert
-TARGET_OTA_ASSERT_DEVICE := c0,p4noterf,n8000,GT-N8000
+TARGET_OTA_ASSERT_DEVICE := c0,p4notewifi,n8000,GT-N8000
 
 #Bluetooth
 BOARD_BLUETOOTH_BDROID_BUILDCFG_INCLUDE_DIR := device/samsung/n8000/bluetooth
